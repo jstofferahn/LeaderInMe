@@ -82,10 +82,10 @@ body {
     position: relative;
     margin: auto;
     width: 900px;
-    height: 600px;
+    height: 300px;
     background-color: black;
     top: 200px;
-    margin-top: 40px
+    margin-top: 40px;
 }
 .whyMember {
     position: relative;
@@ -93,6 +93,7 @@ body {
     width: 900px;
     height: auto;
     background-color: #f8f8f8;
+    top: 250px
     
 }
 .childrenImg {
@@ -145,12 +146,12 @@ body {
     margin: auto;
     width: 900px;
     height: 630px;
-    top: 40px
+    top: 275px
 }
 .coaching {
     float: left;
-    width: 450px;
-    border: 1px solid #f8f8f8;
+    width: 425px;
+    border: 2px solid #f8f8f8;
     
 }
 .coachThumb{
@@ -168,14 +169,14 @@ body {
     
 }
 .webCast {
-    border-top: 1px solid #f8f8f8;
+    border-top: 2px solid #f8f8f8;
     margin: 50px 25px 0 25px
 }
 .upcomingWeb {
     
     position: relative;
     margin-top: 30px;
-    margin-left: 25px;
+    margin-left: 5px;
     color: #5a5a5a;
     margin-bottom: 25px;
     line-height: 1.5
@@ -191,13 +192,13 @@ body {
 .training {
     float: right;
     width: 425px;
-    border: 1px solid #f8f8f8;
+    border: 2px solid #f8f8f8;
     
     
 }
 
 .upcomingCast {
-    border-top: 1px solid #f8f8f8;
+    border-top: 2px solid #f8f8f8;
     margin: 30px 25px 0 25px
 }
 .boxes2 {
@@ -205,10 +206,10 @@ body {
     margin: auto;
     width: 900px;
     height: 630px;
-    top: 60px
+    top: 300px
 }
 .leaderGuides{
-    border-top: 1px solid #f8f8f8;
+    border-top: 2px solid #f8f8f8;
     margin: 25px 25px 0 25px
 }
 .ContactformBox {
@@ -218,7 +219,7 @@ body {
     margin: auto;
     background-image: url('img/registerform1.png');
     background-repeat: no-repeat;
-    top: 50px
+    top: 325px
 }
 
 
@@ -509,9 +510,9 @@ body {
     position: relative;
     margin: auto;
     width: 900px;
-    height: 600px;
+    height: 630px;
     background-color: #f8f8f8;
-    top: 50px
+    top: 325px
 }
 .incAnnMemHeader {
     position: relative;
@@ -523,7 +524,7 @@ body {
 }
 .single-bullet {
     color: #5a5a5a;
-    padding-left: 15px;
+    padding-left: 22px;
     margin-top: -12px;
     list-style-image:url('img/checkmark.svg'); 
  
@@ -531,11 +532,13 @@ body {
 .bullet {
     font-size: 36px;
     color: #F2B749;
-    line-height: .8
+    line-height: .8;
+    text-indent: -4px
 }
 .bullet span {
     font-size: 16px;
     color: #5a5a5a;
+    padding-left: -10px
 }
 .bullet {
     color: #F2B749
@@ -548,7 +551,7 @@ body {
 .left-header {
     color: #5a5a5a;
     padding-top: 30px;
-    padding-left: 20px
+    padding-left: 22px
 }
 .real-bullets {
     padding-top: 5px;
@@ -585,7 +588,7 @@ body {
 }
 .single-bullet3 {
     padding: 5px;
-    padding-left: 15px;
+    padding-left: 22px;
     line-height: 1.75
 }
 .membershipOptions {
@@ -593,7 +596,7 @@ body {
     width: 900px;
     margin: auto;
     height: auto;
-    top: 100px
+    top: 375px
 }
 .membershipHeader {
     color: #009BA4;
@@ -664,7 +667,7 @@ body {
     width: 900px;
     height: auto;
     margin: auto;
-    top: 125px
+    top: 400px
 }
 .guideSamplesText {
     padding-top: 50px;
@@ -718,7 +721,7 @@ body {
     width: 900px;
     margin: auto;
     
-    top: 100px;
+    top: 375px;
 }
 .questionsHeader {
     color: #009BA4;
@@ -734,7 +737,7 @@ body {
     position: relative;
     width: 900px;
     margin: auto;
-    top: 140px;
+    top: 400px;
     height: 125px;
     color:#5a5a5a;
     background-color: #f8f8f8
@@ -757,7 +760,8 @@ body {
     margin-right: 30px
 }
 .clickableLinksBottom {
-    padding-left: 50px
+    padding-left: 50px;
+    color:#5a5a5a;
 }
 h1 {
     font-weight: 200
